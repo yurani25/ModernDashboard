@@ -48,7 +48,7 @@ class MainActivity : AppCompatActivity() {
             val intent = Intent(this@MainActivity, GroceriesActivity::class.java)
             startActivity(intent)
         }
-        
+
 
     }
 }
